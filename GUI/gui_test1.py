@@ -4,6 +4,8 @@ Created on Sat May 18 16:22:10 2019
 
 @author: Doreen
 """
+
+# experimentielle GUI, wird nach Corpus Access weiterentwickelt
 import tkinter as tk
 
 def go_to_solution():

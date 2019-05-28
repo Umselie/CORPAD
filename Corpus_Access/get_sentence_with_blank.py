@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 24 13:41:58 2019
-
-@author: Doreen
-"""
 
 
 import xml.etree.ElementTree as ET

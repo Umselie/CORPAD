@@ -33,7 +33,29 @@ def get_pattern(sentence_list, pattern_l, pattern_t):
                     print(sentence)
                     if re.match(pattern_t,tags) is not None:
                         matches.append(sentence)
-    return(matches)       
+    return(matches)   
+
+# Funktion die in den Sätzen der Liste das Wort findet und durch Lücke ersetzt
+# Die Funktion gibt eine Liste aus Tupeln zurück. In dem Tupel befindet sich eine Liste mit Wörtern des Satzes und das Lösungswort.
+
+def delete_word(sentenceList, vocab):
+    sentencesWithBlanc = []
+    for sentence in sentenceList:
+        blanc = []
+        wordList = []
+        sList = sentence.splitlines()
+        for s in sList:
+            if s != '':
+                wordList.append(s.split())
+        for word in wordList:
+            if word[1] != None:
+                if word[1] == vocab:
+                    blanc.append('<blanc>')
+                    solution = word[0]
+                else:
+                    blanc.append(word[0])
+        sentencesWithBlanc.append((blanc, solution))
+    return sentencesWithBlanc
  
 # Tests:    
 pl=re.compile('(\w+[はも])?\w+が(\w+)?大きい(\w+)?')
@@ -43,3 +65,5 @@ v = '大きい'
 m=get_sentences(v,k)
 for t in get_pattern(m, pl,pt):
     print(t)
+
+s = delete_word(m, v)

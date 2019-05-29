@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 24 13:08:07 2019
 
-@author: Doreen
-"""
 
 import sqlite3
 import random

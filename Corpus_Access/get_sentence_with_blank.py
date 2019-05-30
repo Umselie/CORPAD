@@ -37,7 +37,6 @@ def get_pattern(sentence_list, pattern_l, pattern_t):
 
 # Funktion die in den Sätzen der Liste das Wort findet und durch Lücke ersetzt.
 # Die Funktion gibt ein Tupel mit dem Satz und dem Lösungswort zurück.
-
 import random
 
 def delete_word(sentence_list, vocab):

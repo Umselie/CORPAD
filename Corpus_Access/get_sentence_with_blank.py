@@ -35,27 +35,28 @@ def get_pattern(sentence_list, pattern_l, pattern_t):
                         matches.append(sentence)
     return(matches)   
 
-# Funktion die in den Sätzen der Liste das Wort findet und durch Lücke ersetzt
-# Die Funktion gibt eine Liste aus Tupeln zurück. In dem Tupel befindet sich eine Liste mit Wörtern des Satzes und das Lösungswort.
+# Funktion die in den Sätzen der Liste das Wort findet und durch Lücke ersetzt.
+# Die Funktion gibt ein Tupel mit dem Satz und dem Lösungswort zurück.
 
-def delete_word(sentenceList, vocab):
-    sentencesWithBlanc = []
-    for sentence in sentenceList:
-        blanc = []
-        wordList = []
-        sList = sentence.splitlines()
-        for s in sList:
-            if s != '':
-                wordList.append(s.split())
-        for word in wordList:
-            if word[1] != None:
-                if word[1] == vocab:
-                    blanc.append('<blanc>')
-                    solution = word[0]
-                else:
-                    blanc.append(word[0])
-        sentencesWithBlanc.append((blanc, solution))
-    return sentencesWithBlanc
+import random
+
+def delete_word(sentence_list, vocab):
+    sentence = random.choice(sentence_list)
+    sList = sentence.splitlines()
+    wordList = []
+    blanc = []
+    for s in sList:
+        if s != '':
+            wordList.append(s.split())
+    for word in wordList:
+        if word[1] != None:
+            if word[1] == vocab:
+                blanc.append('<blanc>')
+                solution = word[0]
+            else:
+                blanc.append(word[0])
+    blanc = ''.join(blanc)
+    return (blanc, solution)
  
 # Tests:    
 pl=re.compile('(\w+[はも])?\w+が(\w+)?大きい(\w+)?')

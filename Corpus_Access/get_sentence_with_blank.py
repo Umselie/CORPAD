@@ -57,6 +57,13 @@ def delete_word(sentence_list, vocab):
     blanc = ''.join(blanc)
     return (blanc, solution)
  
+# Funktion: Worte konstant, Satzstrukturen variabel
+def fixed_word(vocab, korpus):
+    sentence_list = get_sentences(vocab, korpus)
+    sentence_with_solution = delete_word(sentence_list, vocab)
+    return(sentence_with_solution)
+    
+    
 # Tests:    
 pl=re.compile('(\w+[はも])?\w+が(\w+)?大きい(\w+)?')
 pt=re.compile('(\w+P.bind)?\w+P.c.g(\w+)?Ai.free(Aux)?')

@@ -5,7 +5,7 @@ Created on Wed Jun  5 18:01:52 2019
 @author: amkaf
 """
 
-# Das Wörterbuch kann man hier (www.edrdg.org/jmdict/j_jmdict.html) finden
+# Das Wörterbuch kann man hier (www.edrdg.org/jmdict/j_jmdict.html) finden, Datei heißt: JMdict
 # Es ist leider zu groß zum Hochladen 
 
 """

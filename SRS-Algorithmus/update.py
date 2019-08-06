@@ -1,5 +1,6 @@
 # Spaced-Repetition-Algorithmus, auf dem SuperMemo2-Algorithmus basierend
 
+import time
 
 # Funktion, um neue Werte für easiness, repetitions, interval und nextPractice zu errechnen
 def updateCard(repetitions, easiness, interval, quality):
@@ -23,4 +24,6 @@ def updateCard(repetitions, easiness, interval, quality):
         
     secondsInDay = 60 * 60 * 24
     now = int(round(time.time() * 1000))
-    nextPracticeDate = now + secondsInDay*interval
+    nextPractice = now + secondsInDay*interval
+    
+    return(repetitions,easiness,interval,nextPractice)

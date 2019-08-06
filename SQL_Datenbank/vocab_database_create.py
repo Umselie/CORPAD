@@ -16,10 +16,10 @@ for i,row in enumerate(csv_reader):
         else:
             s.append(e)
     
-    t=(i,s[0],s[1],s[2])
+    t=(i,s[0],s[1],s[2],0,0,2.5,1,0)
     l.append(t)
 
-l[0]=(0, '会う', 'あう', 'to meet')
+l[0]=(0, '会う', 'あう', 'to meet',0,0,2.5,1,0)
 import sqlite3
 connection = sqlite3.connect("vocab.db")
 
@@ -31,14 +31,19 @@ CREATE TABLE IF NOT EXISTS word (
 id INTEGER PRIMARY KEY, 
 kanji NVARCHAR,
 kana NVARCHAR,
-meaning NVARCHAR
+meaning NVARCHAR,
+repetitions INTEGER,
+quality INTEGER,
+easiness INTEGER,
+interval INTEGER,
+nextPractice INTEGER
 );"""
 
 cursor.execute(sql_command)
 #cursor.execute("INSERT INTO word VALUES(?,?,?,?)",(0, '会う', 'あう', 'to meet'))
 for item in l:
     #print(item)
-    cursor.executemany("INSERT INTO word VALUES(?,?,?,?)", (item,))
+    cursor.executemany("INSERT INTO word VALUES(?,?,?,?,?,?,?,?,?)", (item,))
   
 # To save the changes in the files. Never skip this.  
 # If we skip this, nothing will be saved in the database. 

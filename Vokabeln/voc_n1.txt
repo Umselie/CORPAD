@@ -1929,7 +1929,6 @@
 秩序	ちつじょ	order, regularity, system, method
 知的	ちてき	intellectual
 著	ちゃく	counter for suits of clothing, arriving at ..
-着	ちゃく	counter for suits of clothing, arriving at ..
 着手	ちゃくしゅ	embarkation, launch
 着色	ちゃくしょく	colouring, coloring
 着席	ちゃくせき	sit down, seat
@@ -2127,7 +2126,6 @@
 電線	でんせん	electric line
 伝達	でんたつ	transmission (e.g. news), communication, delivery
 伝来	でんらい	ancestral, hereditary, imported, transmitted, handed down
-	と	1. if (conjunction), 2. promoted pawn (shogi) (abbr)
 問い合わせる	といあわせる	to enquire, to seek information
 問屋	といや	wholesale store
 問う	とう	to ask, to question, to charge (i.e. with a crime), to accuse, without regard to (neg)
@@ -2309,7 +2307,6 @@
 名付ける	なづける	to name (someone)
 何気ない	なにげない	casual, unconcerned
 何しろ	なにしろ	at any rate, anyhow, anyway, in any case
-何卒	なにとぞ	please
 何も	なにも	nothing
 何より	なにより	most, best
 七日	なぬか	seven days, the seventh day (of the month)
@@ -2339,8 +2336,6 @@
 	なんか	things like ..., or something like that .. (often derogatory)
 何だか	なんだか	a little, somewhat, somehow
 	なんだかんだ	something or other
-何て	なんて	how...!, what...!
-何と	なんと	what, how, whatever
 何となく	なんとなく	somehow or other, for some reason or another
 何とも	なんとも	nothing (with neg. verb), quite, not a bit
 何なり	なんなり	any, anything, whatever
@@ -2547,7 +2542,6 @@
 万人	ばんじん	all people, everybody, 10000 people
 万能	ばんのう	all-purpose, almighty, omnipotent
 番目	ばんめ	cardinal number suffix
-非	ひ	faulty-, non-
 費	ひ	cost, expense
 延いては	ひいては	not only...but also, in addition to, consequently
 控室	ひかえしつ	waiting room
@@ -2599,7 +2593,6 @@
 日々	ひび	every day, daily, day after day
 悲鳴	ひめい	shriek, scream
 百科事典	ひゃっかじてん	encyclopedia
-百科辞典	ひゃっかじてん	encyclopedia
 冷やかす	ひやかす	to banter, to make fun of, to jeer at, to cool, to refrigerate
 日焼け	ひやけ	sunburn
 票	ひょう	label, ballot, ticket, sign
@@ -2947,7 +2940,6 @@
 民宿	みんしゅく	private home providing lodging for travelers
 民族	みんぞく	people, race, nation, racial customs, folk customs
 民俗	みんぞく	people, race, nation, racial customs, folk customs
-六	む	(num) six
 無意味	むいみ	nonsense, no meaning
 向き	むき	direction, situation, exposure, aspect, suitability
 無口	むくち	reticence
@@ -3240,7 +3232,6 @@
 	アワー	hour
 	アンケート	(fr:) (n) questionnaire (fr: enquete), survey
 	アンコール	encore
-	イエス	Jesus, yes
 	インターチェンジ	interchange
 	インターナショナル	international
 	インターフォン	intercom

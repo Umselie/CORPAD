@@ -9,6 +9,7 @@ Created on Tue Aug  6 13:06:27 2019
 
 import time
 import random
+import sqlite3
 
 def getwordslists(level):
     connection = sqlite3.connect("vocab.db")
@@ -17,7 +18,6 @@ def getwordslists(level):
     revisions = cursor.execute(request)
     config.globalrevisions = cursor.fetchmany(20)
     i = 20 - len(config.globalrevisions)
-    print(i)
     x = 10+i
     request = 'SELECT * FROM ' +  level + ' WHERE repetitions = 0'
     new = cursor.execute(request)
@@ -28,7 +28,7 @@ def getwordslists(level):
 
 def getword():
     config.global_current_word = random.choice(random.choices(config.global_new_and_revisions, weights=map(len, config.global_new_and_revisions))[0])
-    return
+    return config.global_current_word
 
 ''''
 for e in getword('N5'):
@@ -70,4 +70,4 @@ def updateCard(quality):
     newValues = getNewValues(quality)
     connection = sqlite3.connect("vocab.db")
     cursor = connection.cursor()
-    cursor.execute('UPDATE' + config.globallevel + 'SET repetitions = ' + newValues[0] + ', easiness = ' + newValues[1] +', interval = ' + newValues[2] + ', nextPractice = ' + newValues[3] + ' WHERE id = ' + config.global_current_word[0])
+    cursor.execute('UPDATE ' + config.globallevel + ' SET repetitions = ' + str(newValues[0]) + ', easiness = ' + str(newValues[1]) +', interval = ' + str(newValues[2]) + ', nextPractice = ' + str(newValues[3]) + ' WHERE id = ' + str(config.global_current_word[0]))

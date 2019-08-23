@@ -1,4 +1,3 @@
-嗚呼	ああ	Ah!, Oh!, Alas!
 相	あい	together, mutually, fellow
 相変わらず	あいかわらず	as ever, as usual, the same
 愛想	あいそ	civility, courtesy, compliments, sociability, graces
@@ -43,16 +42,12 @@
 味わい	あじわい	flavour, meaning, significance
 東	あずま	east, Eastern Japan
 焦る	あせる	to be in a hurry, to be impatient
-彼処	あそこ	1. (uk) there, over there, that place, 2. (X) (col) genitals
 値	あたい	value, price, cost, worth, merit
 値する	あたいする	to be worth, to deserve, to merit
-私	あたし	I (fem)
 当たり	あたり	hit, success, reaching the mark, per ..., vicinity, neighborhood
 当たり前	あたりまえ	usual, common, ordinary, natural, reasonable, obvious
 他人	あだびと	another person, unrelated person, outsider, stranger
 彼方此方	あちこち	here and there
-彼方	あちら	1. there, yonder, that
-彼方此方	あちらこちら	here and there
 悪化	あっか	deterioration, growing worse, aggravation, degeneration, corruption
 呆気ない	あっけない	not enough, too quick (short long etc.)
 悪口	あっこう	abuse, insult, slander, evil speaking
@@ -71,7 +66,6 @@
 跡継ぎ	あとつぎ	heir, successor
 後回し	あとまわし	putting off, postponing
 貴女	あなた	you, lady
-彼の	あの	that over there
 溢れる	あふれる	to flood, to overflow, to brim over
 油絵	あぶらえ	oil painting
 炙る	あぶる	to scorch
@@ -89,7 +83,6 @@
 誤る	あやまる	to make a mistake
 歩み	あゆみ	walking
 歩む	あゆむ	to walk, to go on foot
-	あら	oh, ah, saw-edged perch (Niphon spinosus)
 予め	あらかじめ	beforehand, in advance, previously
 荒らす	あらす	to lay waste, to devastate, to damage, to invade, to break into
 粗筋	あらすじ	outline, summary
@@ -97,13 +90,10 @@
 改まる	あらたまる	to be renewed
 荒っぽい	あらっぽい	rough, rude
 凡ゆる	あらゆる	all, every
-	あられ	kind of cookie, cartoon character
 現われ	あらわれ	embodiment, materialization
 現われる	あらわれる	to appear, to come in sight, to become visible, to come out, to embody, to materialize, to express oneself
-有難う	ありがとう	Thank you
 有様	ありさま	state, condition, circumstances, the way things are or should be, truth
 有りのまま	ありのまま	the truth, fact, as it is, frankly
-或る	ある	a certain..., some...
 或いは	あるいは	or, possibly
 彼此	あれこれ	one thing or another, this and that, this or that
 合わす	あわす	to join together, to face, to unite, to be opposite, to combine, to connect, to add up, to mix, to match, to
@@ -120,7 +110,6 @@
 依	い	depending on
 良い	いい	good
 伊井	いい	that one, Italy
-否	いいえ	no, nay, yes, well
 いい加減	いいかげん	moderate, right, random, not thorough, vague, irresponsible, halfhearted
 言い訳	いいわけ	excuse, explanation
 家出	いえで	running away from home, leaving home
@@ -140,7 +129,6 @@
 行き違い	いきちがい	misunderstanding, estrangement, disagreement, crossing without meeting, going astray
 行き成り	いきなり	suddenly
 異議	いぎ	objection, dissent, protest
-	いく	to come, to orgasm
 軍	いくさ	war, battle, campaign, fight
 戦	いくさ	war, battle, campaign, fight
 育成	いくせい	rearing, training, nurture, cultivation, promotion
@@ -149,7 +137,6 @@
 異見	いけん	different opinion, objection
 意向	いこう	intention, idea, inclination
 移行	いこう	switching over to
-	いざ	now, come (now), well, crucial moment
 碑	いしぶみ	stone monument bearing an inscription
 衣装	いしょう	clothing, costume, outfit, garment, dress
 意地	いじ	disposition, spirit, willpower, obstinacy, backbone, appetite
@@ -194,7 +181,6 @@
 一挙に	いっきょに	at a stroke, with a single swoop
 一切	いっさい	all, everything, without exception, the whole, entirely, absolutely
 一心	いっしん	one mind, wholeheartedness, the whole heart
-	いっそ	rather, sooner, might as well
 一帯	いったい	a region, a zone, the whole place
 一敗	いっぱい	one defeat
 一変	いっぺん	complete change, about-face
@@ -218,7 +204,6 @@
 移民	いみん	emigration, immigration, emigrant, immigrant
 厭々	いやいや	unwillingly, grudgingly, shaking head in refusal (to children)
 卑しい	いやしい	greedy, vulgar, shabby, humble, base, mean, vile
-	いやに	awfully, terribly
 厭やらしい	いやらしい	detestable, disagreeable
 愈々	いよいよ	more and more, all the more, increasingly, at last, beyond doubt
 意欲	いよく	will, desire, ambition
@@ -231,8 +216,6 @@
 色々	いろいろ	various
 異論	いろん	different opinion, objection
 所謂	いわゆる	the so-called, so to speak
-印	いん	seal, stamp, mark, print
-員	いん	member
 印鑑	いんかん	stamp, seal
 陰気	いんき	gloom, melancholy
 隠居	いんきょ	retirement, retired person
@@ -297,9 +280,6 @@
 運命	うんめい	fate
 運輸	うんゆ	transportation
 運用	うんよう	making use of, application, investment, practical use
-会	え	understanding
-重	え	-fold, -ply
-	えい	ray (fish)
 映写	えいしゃ	projection
 英字	えいじ	English letter (character)
 衛生	えいせい	health, hygiene, sanitation, medical
@@ -340,7 +320,6 @@
 黄金	おうごん	gold
 黄色	おうしょく	yellow
 応募	おうぼ	subscription, application
-	おおい	hey!
 大方	おおかた	perhaps, almost all, majority
 大柄	おおがら	large build, large pattern
 大げさ	おおげさ	grandiose, exaggerated
@@ -386,7 +365,6 @@
 恐らく	おそらく	perhaps
 恐れ	おそれ	fear, horror
 恐れ入る	おそれいる	to be filled with awe, to feel small, to be amazed, to be surprised, to be disconcerted, to be sorry, to b
-お大事に	おだいじに	Take care of yourself
 煽てる	おだてる	to stir up, to instigate, to flatter
 落ち込む	おちこむ	to fall into, to feel down (sad)
 落ち着き	おちつき	calm, composure
@@ -520,7 +498,6 @@
 駆けっこ	かけっこ	(foot) race
 駆ける	かける	to run (race esp. horse), to gallop, to canter
 賭ける	かける	to wager, to bet, to risk, to stake, to gamble
-ヶ月	かげつ	#NAME?
 加工	かこう	manufacturing, processing, treatment
 化合	かごう	chemical combination
 嵩張る	かさばる	to be bulky, to be unwieldy, to grow voluminous
@@ -732,7 +709,6 @@
 切っ掛け	きっかけ	chance, start, cue, excuse, motive, impetus, occasion
 	きっかり	exactly, precisely
 喫茶	きっさ	tea drinking, tea house
-	きっちり	precisely, tightly
 屹度	きっと	1. (uk) surely, undoubtedly, certainly, without fail, 2. sternly, severely
 	きっぱり	clearly, plainly, distinctly
 規定	きてい	regulation, provisions
@@ -1127,7 +1103,6 @@
 堪える	こらえる	to bear, to stand, to endure, to put up with, to support, to withstand, to resist, to brave, to be fit for, t
 孤立	こりつ	isolation, helplessness
 懲りる	こりる	to learn by experience, to be disgusted with
-此れ	これ	this
 此れ等	これら	these
 魂	こん	soul, spirit
 根気	こんき	patience, perseverance, energy
@@ -1167,7 +1142,6 @@
 佐	さ	help
 再	さい	re-, again, repeated
 差異	さい	difference, disparity
-歳	さい	#NAME?
 再会	さいかい	another meeting, meeting again, reunion
 災害	さいがい	calamity, disaster, misfortune
 細菌	さいきん	bacillus, bacterium, germ
@@ -1241,7 +1215,6 @@
 爽やか	さわやか	fresh, refreshing, invigorating, clear, fluent, eloquent
 障る	さわる	to hinder, to interfere with, to affect, to do one harm, to be harmful to
 酸	さん	acid
-	さん	Mr or Mrs
 酸化	さんか	oxidation
 山岳	さんがく	mountains
 産休	さんきゅう	maternity leave
@@ -1271,7 +1244,6 @@
 残酷	ざんこく	cruelty, harshness
 残高	ざんだか	(bank) balance, remainder
 死	し	death, decease
-	し	10^24 (kanji is JIS X 0212 kuten 4906), septillion (American), quadrillion (British)
 次	し	order, sequence, times, next, below
 仕上がり	しあがり	finish, end, completion
 仕上げ	しあげ	end, finishing touches, being finished
@@ -1355,7 +1327,6 @@
 萎む	しぼむ	to wither, to fade (away), to shrivel, to wilt
 仕舞	しまい	end, termination, informal (Noh play)
 仕舞う	しまう	to finish, to close, to do something completely, to put away, to put an end to
-	しまった	Damn it!
 始末	しまつ	management, dealing, settlement, cleaning up afterwards
 泌み泌み	しみじみ	keenly, deeply, heartily
 染みる	しみる	to pierce, to permeate
@@ -1537,7 +1508,6 @@
 実践	じっせん	practice, put into practice
 実態	じったい	truth, fact
 実費	じっぴ	actual expense, cost price
-十分	じっぷん	10 minutes
 実	じつ	truth, reality, sincerity, fidelity, kindness, faith, substance, essence
 実業家	じつぎょうか	industrialist, businessman
 実情	じつじょう	real condition, actual circumstances, actual state of affairs
@@ -1760,7 +1730,6 @@
 総合	そうごう	synthesis, coordination, putting together, integration, composite
 捜査	そうさ	search (esp. in criminal investigations), investigation
 捜索	そうさく	search (esp. for someone or something missing), investigation
-然うして	そうして	and, like that
 装飾	そうしょく	ornament
 操縦	そうじゅう	management, handling, control, manipulation
 創造	そうぞう	creation
@@ -1782,11 +1751,9 @@
 其処ら	そこら	everywhere, somewhere, approximately, that area, around there
 素材	そざい	raw materials, subject matter
 阻止	そし	obstruction, check, hindrance, prevention, interdiction
-然して	そして	and
 訴訟	そしょう	litigation, lawsuit
 育ち	そだち	breeding, growth
 措置	そち	measure, step
-其方	そちら	over there, the other
 素っ気ない	そっけない	cold, short, curt, blunt
 率直	そっちょく	frankness, candour, openheartedness
 外方	そっぽ	look (or turn) the other way
@@ -1805,15 +1772,7 @@
 染める	そめる	to dye, to colour
 逸らす	そらす	to turn away, to avert
 反り	そり	warp, curvature, curve, arch
-其れ	それ	it, that
-其れから	それから	and then, after that
 各々	それぞれ	each, every, either, respectively, severally
-其れで	それで	and (conj), thereupon, because of that
-其れでは	それでは	in that situation, well then ...
-其れでも	それでも	but (still), and yet, nevertheless, even so, notwithstanding
-其れ共	それとも	or, or else
-其れに	それに	besides, moreover
-其れ程	それほど	to that degree, extent
 其れ故	それゆえ	therefore, for that reason, so
 揃い	そろい	set, suit, uniform
 徐々	そろそろ	gradually, steadily, quietly, slowly, soon

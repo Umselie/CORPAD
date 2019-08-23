@@ -8,14 +8,14 @@ import words
 import get_sentence_with_blank
 from tkinter import *
 import config
+import update
+
 # creating basic window
 window = Tk()
-
+window.geometry('800x500')
 
 window.title("CORPAD")
 
-korpus =  'jpWaC-L3.vert'
-vokabel = getword('N5')[1]
 
 ################################### functions ######################################
 
@@ -27,12 +27,16 @@ def go_to_level(level,corpus):
     
 def show_solution():
     solution_label.config(text= config.globalsolution)
-    weiter.pack()
+    weiter.grid(row = 3) 
     
 def update_sentence():
     sentence.config(text = fixed_word(getword(config.globallevel)[1], config.globalcorpus))
-    weiter.pack_forget()
+    weiter.grid_forget()
     solution_label.config(text= '')
+    bedeutung_label.config(text= '')
+    
+def show_meaning():
+    bedeutung_label.config(text = config.globalmeaning)
 
  # Frame 1: Levelauswahl
 frame1 = Frame(window)
@@ -48,18 +52,24 @@ b3.pack()
 b2.pack()
 b1.pack()
 
-# Frame 2
+# Frame 2: Sätze mit Lücke
 frame2 = Frame(window)
 
 sentence = Label(frame2, font = ('arial', 20), text= fixed_word(getword(config.globallevel)[1], config.globalcorpus))
-sentence.pack() 
+sentence.grid(row = 0)
+#sentence.pack() 
 
-solution = Button(frame2, font = ('arial', 18),text = "Lösung", fg = "black", cursor = "hand2", command = lambda: show_solution())
-solution.pack()              
+solution = Button(frame2, font = ('arial', 18),text = "Lösung", fg = "black", cursor = "hand2", command = lambda: show_solution()).grid(row = 1)
+#solution.pack()              
 
 solution_label = Label(frame2,font = ('arial', 18),text ='')
-solution_label.pack()   
+solution_label.grid(row=2)
+#solution_label.pack()
 
-weiter = Button(frame2, font = ('arial', 18),text = "weiter", fg = "black", cursor = "hand2", command = lambda: update_sentence())    
+bedeutung = Button(frame2, font = ('arial', 18),text = "Bedeutung", fg = "black", cursor = "hand2", command = lambda: show_meaning()).grid(row = 1, column = 1)
+bedeutung_label = Label(frame2,font = ('arial', 18),text ='')
+bedeutung_label.grid(row=2, column = 1)
+
+weiter = Button(frame2, font = ('arial', 18),text = "weiter", fg = "black", cursor = "hand2", command = lambda: update_sentence())  
 
 window.mainloop()

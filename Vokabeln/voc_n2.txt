@@ -21,7 +21,6 @@
 暖まる	あたたまる	to warm up,to get warm
 暖める	あたためる	to warm,to heat
 	あたりまえ	usual,common,ordinary
-あひら	あひら	
 	あちらこちら	here and there
 厚かましい	あつかましい	impudent,shameless,brazen
 圧縮	あっしゅく	compression,condensation,pressure
@@ -78,9 +77,6 @@
 一斉	いっせい	simultaneous,all at once
 一旦	いったん	once,for a moment,one morning,temporarily
 一定	いってい	fixed,settled,definite
-	いっていらっしゃい	
-	いってらっしゃい	
-	いってまいります	
 	いつのまにか	before one knows,unnoticed,unawares
 移転	いてん	moving,transfer,demise
 井戸	いど	water well
@@ -135,7 +131,6 @@
 	うんと	a great deal,very much
 英文	えいぶん	sentence in English
 英和	えいわ	English-Japanese (e.g. dictionary)
-	ええと	let me see,well,er....
 液体	えきたい	liquid,fluid
 	エチケット	etiquette
 絵の具	えのぐ	colors,paints
@@ -166,20 +161,15 @@
 	オーバーコート	
 大凡	おおよそ	about,roughly,as a rule,approximately
 お帰り	おかえり	return,welcome
-	おかけください	
-	おかげさまで	Thanks to god,thanks to you
 	おかず	side dish,accompaniment for rice dishes
 拝む	おがむ	to worship,to beg,to make a supplication
 お代わり	おかわり	second helping,another cup
 補う	おぎなう	to compensate for
-	おきのどくに	
 屋外	おくがい	outdoors
 	おくさん	(hon) wife,your wife,madam
 送り仮名	おくりがな	part of word written in kana
-	おげんきで	
 怠る	おこたる	to neglect,to be off guard,to be feeling better
 押える	おさえる	to stop,to restrain,to seize,to repress,to suppress,to press down
-	おさきに	before,ahead,previously
 納める	おさめる	to obtain,to reap,to pay,to supply,to accept
 治める	おさめる	(1) to govern,to manage,(2) to subdue
 惜しい	おしい	regrettable,disappointing,precious
@@ -188,9 +178,7 @@
 小父さん	おじさん	middle-aged gentleman,uncle
 叔父さん	おじさん	middle-aged gentleman,uncle
 	おしゃれ	smartly dressed,someone smartly dressed,fashion-conscious
-	おじゃまします	Excuse me for disturbing you
-教わる	おそわる	to be taught
-	おだいじに	Take care of yourself
+教わる	おそわる	to be taugh
 落着く	おちつく	to calm down,to settle down
 御手洗	おてあらい	font of purifying water placed at entrance of shrine
 お出掛け	おでかけ	
@@ -207,9 +195,6 @@
 叔母さん	おばさん	(1) aunt,(2) middle-aged lady
 	おはよう	(abbr) Good morning
 お参り	おまいり	worship,shrine visit
-	おまたせしました	Sorry to have kept you waiting
-	おまちください	Please wait a moment
-	おまちどおさま	Sorry to have kept you waiting
 	おめでたい	happy event,matter for congratulation,auspicious event,pregnancy
 思い掛けない	おもいがけない	unexpected,casual
 思い込む	おもいこむ	to be under impression that,to be convinced that
@@ -281,7 +266,6 @@
 重ねる	かさねる	to pile up,to put something on another,to heap up,to add,to repeat
 飾り	かざり	decoration
 火山	かざん	volcano
-	かしこまりました	certainly!
 貸し出し	かしだし	lending,loaning
 過失	かしつ	error,blunder,accident
 果実	かじつ	fruit,nut,berry.
@@ -480,7 +464,6 @@
 下品	げひん	vulgarity,meanness,indecency,coarseness
 煙い	けむい	smoky
 蹴る	ける	to kick
-けれど/けれども		but,however
 険しい	けわしい	inaccessible place,sharp eyes
 見学	けんがく	inspection,study by observation,field trip
 謙虚	けんきょ	modesty,humility
@@ -545,7 +528,6 @@
 国王	こくおう	king
 国籍	こくせき	nationality
 国立	こくりつ	national
-	ごくろうさま	Thank you very much for your....
 焦げる	こげる	to burn,to be burned
 凍える	こごえる	to freeze,to be chilled,to be frozen
 心当たり	こころあたり	having some knowledge of,happening to know
@@ -557,7 +539,6 @@
 	こしらえる	to make,to manufacture
 超す	こす	to cross,to pass,to tide over
 擦る	こする	to rub,to chafe,to file,to frost (glass),to strike (match)
-	ごぞんじですか	
 個体	こたい	an individual
 御馳走	ごちそう	feast,treating (someone)
 	ごちそうさま	feast
@@ -576,7 +557,6 @@
 塵芥	ごみ	trash,rubbish
 	ゴム	gum,rubber,eraser
 御免	ごめん	your pardon,declining (something),dismissal,permission
-	ごめんください	May I come in?
 小指	こゆび	little finger
 	こらえる	to bear,to stand,to endure,to put up with
 娯楽	ごらく	pleasure,amusement
@@ -761,7 +741,6 @@
 純粋	じゅんすい	pure,true,genuine,unmixed
 消化	しょうか	digestion
 小学生	しょうがくせい	grade school student
-	しょうがない	
 将棋	しょうぎ	Japanese chess
 蒸気	じょうき	steam,vapour
 定規	じょうぎ	(measuring) ruler
@@ -839,7 +818,6 @@
 水平線	すいへいせん	horizon
 水曜	すいよう	Wednesday
 	ずうずうしい	impudent,shameless
-	ずうっと	
 末っ子	すえっこ	youngest child
 	スカーフ	scarf
 図鑑	ずかん	picture book
@@ -875,7 +853,6 @@
 相撲	すもう	sumo wrestling
 	スライド	slide
 	ずらす	to put off,to delay
-	ずらり	
 掏摸	すり	pickpocket
 刷る	する	to print
 狡い	ずるい	sly,cunning
@@ -909,7 +886,6 @@
 接近	せっきん	getting closer,drawing nearer,approaching
 石鹸	せっけん	soap
 接する	せっする	to come in contact with,to connect,to attend,to receive
-	せっせと	
 接続	せつぞく	(1) connection,union,join,link,(2) changing trains
 瀬戸物	せともの	earthenware,crockery,china
 	ぜひとも	by all means (with sense of not taking no for an answer)
@@ -943,11 +919,9 @@
 相互	そうご	mutual,reciprocal
 創作	そうさく	production,literary creation,work
 葬式	そうしき	funeral
-	そうして	and,like that
 造船	ぞうせん	shipbuilding
 騒々しい	そうぞうしい	noisy,boisterous
 増大	ぞうだい	enlargement
-	そうっと	
 送別	そうべつ	farewell,send-off
 草履	ぞうり	zoori (Japanese footwear),sandals
 総理大臣	そうりだいじん	Prime Minister
@@ -963,13 +937,8 @@
 	そそっかしい	careless,thoughtless
 卒直	そっちょく	frankness,candour,openheartedness
 具える	そなえる	to be furnished with
-	そのうえ	in addition,furthermore
-	そのころ	
-	そのため	hence,for that reason
-	そのほか	otherwise
 蕎麦	そば	soba (buckwheat noodles)
 剃る	そる	to shave
-	それなのに	
 逸れる	それる	to stray (turn) from subject,to get lost,to go astray
 揃う	そろう	to become complete,to be equal,to be all present,to gather
 揃える	そろえる	to put things in order,to arrange,to make uniform,to get something ready
@@ -1263,7 +1232,6 @@
 撫でる	なでる	to brush gently,to stroke
 斜め	ななめ	obliqueness
 	なにしろ	at any rate,anyhow,anyway,in any case
-何々	なになに	such and such,What?
 何分	なにぶん	what minute?,how many minutes?
 生意気	なまいき	impertinent,saucy,cheeky,conceit,audacious,brazen
 並木	なみき	roadside tree,row of trees
@@ -1330,7 +1298,6 @@
 俳句	はいく	haiku poetry
 拝見	はいけん	(hum) (pol) seeing,look at
 売店	ばいてん	shop,stand
-	バイバイ	
 売買	ばいばい	trade,buying and selling
 這う	はう	to creep,to crawl
 生える	はえる	(1) to grow,to spring up,(2) to cut (teeth)
@@ -1350,14 +1317,12 @@
 梯子	はしご	ladder,stairs
 始めに	はじめに	to begin with,first of all
 初めに	はじめに	
-	はじめまして	How do you do?,I am glad to meet you
 斜	はす	
 外れる	はずれる	to be disconnected,to get out of place,to be off,to be out (e.g. of gear)
 	パターン	pattern
 肌着	はだぎ	underwear
 果して	はたして	as was expected,really
 鉢	はち	a bowl,a pot
-×	ばつ	
 発揮	はっき	exhibition,demonstration,utilization,display
 	バック	back
 発射	はっしゃ	firing,shooting,discharge,catapult

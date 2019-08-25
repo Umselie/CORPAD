@@ -4,8 +4,7 @@
 import xml.etree.ElementTree as ET
 #import random
 import config
-import re
-from words import *
+
 
 # Funktion gibt eine Liste aller Sätze mit einem bestimmten wort 'vocab' aus dem Korpus zurück
 def get_sentences(vocab, korpus):

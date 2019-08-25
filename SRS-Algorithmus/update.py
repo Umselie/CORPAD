@@ -12,22 +12,35 @@ import random
 import sqlite3
 
 def getwordslists(level):
+    config.globalrevisions=[]
+    config.globalnew=[]
     connection = sqlite3.connect("vocab.db")
     cursor = connection.cursor() 
     request = 'SELECT * FROM ' +  level + ' WHERE nextPractice >='+str(int(round(time.time() * 1000)))
     revisions = cursor.execute(request)
-    config.globalrevisions = cursor.fetchmany(20)
-    i = 20 - len(config.globalrevisions)
+    words = cursor.fetchall()
+    l = len(words)
+    if words and l<10:
+        config.globalrevisions = random.choices(words,k=l)
+    elif words:
+        config.globalrevisions = random.choices(words,k=10)
+    print(config.globalrevisions)
+    i = 10 - len(config.globalrevisions)
     x = 10+i
     request = 'SELECT * FROM ' +  level + ' WHERE repetitions = 0'
     new = cursor.execute(request)
-    config.globalnew = cursor.fetchmany(size=x)
-    
+    words = cursor.fetchall()
+    l = len(words)
+    if words and l<10:
+        config.globalnew = random.choices(words,k=l)
+    elif words:
+        config.globalnew = random.choices(words,k=x)
+    print(config.globalnew)
     connection.close()
-    config.global_new_and_revisions = [config.globalrevisions,config.globalnew]
+    config.global_new_and_revisions = config.globalrevisions+config.globalnew
 
 def getword():
-    config.global_current_word = random.choice(random.choices(config.global_new_and_revisions, weights=map(len, config.global_new_and_revisions))[0])
+    config.global_current_word = random.choice(config.global_new_and_revisions)
     return config.global_current_word
 
 ''''
@@ -71,3 +84,13 @@ def updateCard(quality):
     connection = sqlite3.connect("vocab.db")
     cursor = connection.cursor()
     cursor.execute('UPDATE ' + config.globallevel + ' SET repetitions = ' + str(newValues[0]) + ', easiness = ' + str(newValues[1]) +', interval = ' + str(newValues[2]) + ', nextPractice = ' + str(newValues[3]) + ' WHERE id = ' + str(config.global_current_word[0]))
+    print('UPDATE ' + config.globallevel + ' SET repetitions = ' + str(newValues[0]) + ', easiness = ' + str(newValues[1]) +', interval = ' + str(newValues[2]) + ', nextPractice = ' + str(newValues[3]) + ' WHERE id = ' + str(config.global_current_word[0]))
+    connection.commit() 
+    connection.close()
+    
+def reset(level):
+    connection = sqlite3.connect("vocab.db")
+    cursor = connection.cursor()
+    cursor.execute('UPDATE ' + level + ' SET repetitions = 0, easiness = 2.5, interval = 1, nextPractice = 0 ')
+    connection.commit() 
+    connection.close()
